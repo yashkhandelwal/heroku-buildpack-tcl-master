@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 heroku-buildpack-tcl
 ====================
 
@@ -36,3 +37,7 @@ Finish >>
 <br>Running `tclsh` attached to terminal... up, run.1070
 <br>%puts "hello world"
 <br>hello world
+=======
+heroku-buildpack-tcl-master
+===========================
+>>>>>>> ba3b560a4b1e45b0a22ce643503ac15fec17ce3e
