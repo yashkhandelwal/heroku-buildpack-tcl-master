@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-heroku-buildpack-tcl
-====================
-
 Heroku builpack for TCL
 
 Use TCL-Buildpack if you need Heroku to execute a TCL scripts.
